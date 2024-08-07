@@ -6,11 +6,19 @@
 }
 
 header{
-    margin-top: 30px;
+    margin-top: 0px;
+}
+
+.fundo{
+    height: 100%;
+    width: 100%;
+    background: #90e7b1;
+    z-index: -2;
+    padding-bottom: 35px;
 }
 
 a{
-    font-weight: 400;
+    font-weight: 700;
     font-size: 14px;
     line-height: 21px;
     color: #17233d;
@@ -67,7 +75,7 @@ p{
     font-size: 18px;
     font-weight: 500;
     line-height: 27px;
-    color: #6fbf44;
+    color: #0f7a03;
     cursor: pointer;
 }
 
