@@ -69,6 +69,7 @@ p{
     line-height: 33px;
     width: 493px;
     margin-bottom: 40px;
+    color:#161a49 ;
 }
 
 .link-2{
@@ -132,4 +133,10 @@ p{
         text-align: center;
         margin-bottom: 10px;
     }
+
+    .fundo{
+        width: 578px;
+        height: 1258px;
+    }
+
 }
